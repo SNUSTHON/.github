@@ -6,6 +6,15 @@
 
 <br></br>
 
+## 💭해커톤 주제
+- 무한(♾️)
+
+24시간이라는 정해진 시간 속에서 참가자 모두 자신의 능력에 한계를 두지 않고, 자신의 한계를 넘어 무한한 성장을 이루길 바라는 의미
+
+→ 다양한 의미의 무한, 팀별로 무한의 의미를 정의한 후 아이디어 선정하여 해커톤 진행
+
+<br></br>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSNUSTHON&count_bg=%2385ADFD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=snusthon_official/)](www.instagram.com/snusthon_official/)
 [![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snusthon@gmail.com)](mailto:snusthon@gmail.com)
